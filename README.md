@@ -1,7 +1,8 @@
 # LVGL Code for Wio Terminal to display data from SignalK via MQTT🖥️
 
 This repository provides code to diaplay Engine data from SignalK via MQTT. Graphics is done via lvgl. This is provided as-is and should
-be used as an example of how to display MQTT data using lvgl graphics widgets.
+be used as an example of how to display MQTT data using lvgl graphics widgets. This code also supports the add-on battery so it can be 
+a "portable" display.
 
 This code is losely based on the following repository:
 - https://github.com/Ryan-py/lvgl-wio-terminal-starter.git
