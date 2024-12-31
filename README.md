@@ -5,6 +5,7 @@ be used as an example of how to display MQTT data using lvgl graphics widgets.
 
 This code is losely based on the following repository:
 - https://github.com/Ryan-py/lvgl-wio-terminal-starter.git
+  
 Thanks Ryan.
 
 ![IMG_20180719_034051](https://github.com/user-attachments/assets/3c1c7ae1-ac48-47a8-889a-a5204a65a27a)
