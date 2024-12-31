@@ -4,7 +4,7 @@ This repository provides code to diaplay Engine data from SignalK via MQTT. Grap
 be used as an example of how to display MQTT data using lvgl graphics widgets. This code also supports the add-on battery so it can be 
 a "portable" display.
 
-This code is losely based on the following repository:
+This code is based on the following repository for lvgl integration:
 - https://github.com/Ryan-py/lvgl-wio-terminal-starter.git
   
 Thanks Ryan.
