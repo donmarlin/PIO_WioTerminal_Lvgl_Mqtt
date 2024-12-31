@@ -14,11 +14,8 @@
 
 // Update these with values suitable for your network.
 // need to figure out a way to auto discover mqtt server
-//const char* ssid = "Indulgence"; // WiFi Name
-//const char* password = "XWsE52HZ";  // WiFi Password
-//const char* mqtt_server = "10.10.10.1";  // MQTT Broker URL
-const char* ssid = "BELL838"; // WiFi Name
-const char* password = "C1E34F964543";  // WiFi Password
+const char* ssid = "SSID"; // WiFi Name
+const char* password = "PASSWD";  // WiFi Password
 
 bool sw_dbnc = 0; // used to debounce navigation switch
 bool refresh = 0; // used to for refresh of static items on all screens
